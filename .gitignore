@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+grammars/
+.llm_cache/
+results/fewshot.csv
+results/fewshot_anchors.csv
+results/parts/
+results/analysis/
+results/_smoke/
+results/matched/_smoke/
+figures/
+results/matched/parts/
+results/matched/_smoke/
+data/benchmark/raw/

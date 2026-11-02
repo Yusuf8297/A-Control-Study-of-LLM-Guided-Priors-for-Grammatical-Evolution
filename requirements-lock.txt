@@ -1,0 +1,10 @@
+# versions behind the bundled reference run (results/reference_run), Python 3.13.
+# The same campaign also reproduced cell for cell under Python 3.11 with
+# numpy 2.4.4 / pandas 3.0.2 / scipy 1.17.1 / scikit-learn 1.8.0, so the loose
+# ranges in requirements.txt are normally fine.
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.1
+deap==1.4.4
+matplotlib==3.11.2
